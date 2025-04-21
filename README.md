@@ -1,8 +1,8 @@
-# Alexa Project
+# Mark Project
 
 ## Overview
 
-Alexa is a personal assistant application that can perform various tasks such as providing weather updates, searching the web, fetching news headlines, and more. The application utilizes voice commands for interaction and can handle various types of queries.
+Mark is a personal assistant application that can perform various tasks such as providing weather updates, searching the web, fetching news headlines, and more. The application utilizes voice commands for interaction and can handle various types of queries.
 
 
 ## Creator
