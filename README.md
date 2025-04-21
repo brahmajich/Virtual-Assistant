@@ -104,7 +104,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 For any questions or support, please reach out to:
 
-- **Email:** ayusharyan473@gmail.com
+- **Email:** brahmajich8@gmail.com
 
 
-# Virtual-Assistant-in-Smart-Home
+# Virtual-Assistant-Mark
