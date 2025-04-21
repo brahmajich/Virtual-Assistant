@@ -93,8 +93,6 @@ This project was developed by Ayush Aryan, a B.Tech student specializing in Comp
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that you have tested your changes thoroughly before submitting.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 - **Python Libraries:** speech_recognition , pyttsx3 , pywhatkit , wikipedia , pyjokes , requests , aiohttp , python_weather , selenium , and webdriver_manager.
